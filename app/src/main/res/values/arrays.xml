@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="like_entries_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="like_entries">
+        <item>Olor</item>
+        <item>Sabor</item>
+        <item>Temperatura</item>
+    </string-array>
+
+    <string-array name="default_like">
+        <item>1</item>
+    </string-array>
+
+    <string-array name="like_entries_values_options">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+
+    <string-array name="like_entries_options">
+        <item>Limpieza</item>
+        <item>Iluminación</item>
+        <item>Ambientación</item>
+    </string-array>
+
+</resources>

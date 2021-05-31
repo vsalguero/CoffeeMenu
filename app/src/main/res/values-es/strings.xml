@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Coffee Night</string>
+
+    <string name="title">Coffee Night</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="quantity">Cantidad</string>
+    <string name="price">PRECIO</string>
+    <string name="order">Ordenar</string>
+    <string name="total">Total</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="number">2</string>
+    <string name="number2">$ 10.00</string>
+
+    <string name="like">¿Que es lo que más te gustó de nuestro café?</string>
+    <string name="like_sum">Nos gustaría conocer tu opinión sobre nuestro negocio,
+        por favor responde esta pequeña encuesta.</string>
+    <string name="like_default">1</string>
+
+    <string name="like_comment">Ingrese un comentario</string>
+    <string name="like_comment_title">Envienos sus comentarios</string>
+    <string name="like_comment_sum">Su opinión es muy importante</string>
+    <string name="like_options">Elija que le gustó de nuestro local</string>
+
+    <string name="category_title">ENCUESTA</string>
+    <string name="messageus_title">ESCRIBENOS</string>
+
+    <string name="main_settings_title">CONFIGURACIONES</string>
+
+
+</resources>

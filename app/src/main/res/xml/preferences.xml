@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/category_title">
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="like"
+            android:summary="@string/like_sum"
+            android:title="@string/like" />
+
+        <ListPreference
+            android:defaultValue="@string/like_default"
+            android:dependency="like"
+            android:dialogTitle="@string/like"
+            android:entries="@array/like_entries"
+            android:entryValues="@array/like_entries_values"
+            android:key="likeplus"
+            android:title="@string/like" />
+
+
+        <MultiSelectListPreference
+            android:defaultValue="@array/default_like"
+            android:dependency="like"
+            android:dialogTitle="@string/like_options"
+            android:entries="@array/like_entries_options"
+            android:entryValues="@array/like_entries_values_options"
+            android:key="likeplusoption"
+            android:title="@string/like" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/messageus_title">
+
+        <EditTextPreference
+            android:hint="@string/like_comment"
+            android:key="like_comment"
+            android:summary="@string/like_comment_sum"
+            android:title="@string/like_comment_title" />
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>
