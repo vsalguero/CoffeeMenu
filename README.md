@@ -5,7 +5,10 @@
 <br><br>
 <img src="app/src/main/res/drawable/cafe.png">
 <br><br>
-<strong>SUPPORT</strong>
+<strong>Preview</strong>
+<img src="app/src/main/res/drawable/AppCoffee.jpg">
 <br><br>
-<a href="https://www.buymeacoffee.com/vsalguero" target="_blank"><img src="https://media.giphy.com/media/sqQihma8JiyO7Skpqv/giphy.gif" alt="Buy Me A Coffee" height="70" width="250"></a>
+<!--<strong>SUPPORT</strong>
+<br><br>
+<a href="https://www.buymeacoffee.com/vsalguero" target="_blank"><img src="https://media.giphy.com/media/sqQihma8JiyO7Skpqv/giphy.gif" alt="Buy Me A Coffee" height="70" width="250"></a>-->
 
