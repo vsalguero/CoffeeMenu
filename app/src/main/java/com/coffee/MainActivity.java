@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity {
         SharedPreferences shared_pref = PreferenceManager.getDefaultSharedPreferences(this);
         String pref_like_val = shared_pref.getString(
                 SettingsActivity.KEY_PREF_LIKE, getResources().getString(R.string.like));
-        message += " Excelente, Lo que mas te gusta de nuestro cafe es su: ";
+        message += " \nExcelente, Lo que mas te gusta de nuestro café es su: ";
         switch (pref_like_val) {
             case "1":
                 message += " Olor";
